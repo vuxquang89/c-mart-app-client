@@ -11,6 +11,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 Admin: open http://localhost:3000/chatadmin .
-- enter C-Mart name to start chat
+- enter 'C-Mart' name to start chat
 
 
